@@ -1,0 +1,15 @@
+/Users/admin/Desktop/DZ/Seminar8/z54/bin/Debug/net6.0/z54
+/Users/admin/Desktop/DZ/Seminar8/z54/bin/Debug/net6.0/z54.deps.json
+/Users/admin/Desktop/DZ/Seminar8/z54/bin/Debug/net6.0/z54.runtimeconfig.json
+/Users/admin/Desktop/DZ/Seminar8/z54/bin/Debug/net6.0/z54.dll
+/Users/admin/Desktop/DZ/Seminar8/z54/bin/Debug/net6.0/z54.pdb
+/Users/admin/Desktop/DZ/Seminar8/z54/obj/Debug/net6.0/z54.csproj.AssemblyReference.cache
+/Users/admin/Desktop/DZ/Seminar8/z54/obj/Debug/net6.0/z54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/DZ/Seminar8/z54/obj/Debug/net6.0/z54.AssemblyInfoInputs.cache
+/Users/admin/Desktop/DZ/Seminar8/z54/obj/Debug/net6.0/z54.AssemblyInfo.cs
+/Users/admin/Desktop/DZ/Seminar8/z54/obj/Debug/net6.0/z54.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/DZ/Seminar8/z54/obj/Debug/net6.0/z54.dll
+/Users/admin/Desktop/DZ/Seminar8/z54/obj/Debug/net6.0/refint/z54.dll
+/Users/admin/Desktop/DZ/Seminar8/z54/obj/Debug/net6.0/z54.pdb
+/Users/admin/Desktop/DZ/Seminar8/z54/obj/Debug/net6.0/z54.genruntimeconfig.cache
+/Users/admin/Desktop/DZ/Seminar8/z54/obj/Debug/net6.0/ref/z54.dll
