@@ -35,36 +35,31 @@ void PrintArray()
 
 void ChangeArray()
 {
-    int minSumLine = 0;
-    int SumLineElements(int[,] matrix, int i)
+    int SumLine(int[,] matrix, int i)
     {
-        int sumLine = matrix[i,0];
+        int sum = matrix[i,0];
         for (int j = 1; j < matrix.GetLength(1); j++)
         {
-            sumLine += matrix[i,j];
+            sum += matrix[i,j];
         }
-        return sumLine;
+        return sum;
     }
 
-    int sumLine = SumLineElements(matrix, 0);
+    int minSum = 1;
+    int sum = SumLine(matrix, 0);
     for (int i = 1; i < matrix.GetLength(0); i++)
     {
-        int tempSumLine = SumLineElements(matrix, i);
-        if (sumLine > tempSumLine)
+        if (sum > SumLine(matrix, i))
         {
-            sumLine = tempSumLine;
-            minSumLine = i;
+            sum = SumLine(matrix, i);
+            minSum = i+1;
         }
-
     }
-    Console.WriteLine($"{minSumLine+1} - строкa с наименьшей суммой ({sumLine}) элементов ");
-} 
+    Console.WriteLine($"Строка c наименьшей суммой элементов: {minSum}");
 
+}
 
 GetArray();
 PrintArray();
 System.Console.WriteLine("__________");
 ChangeArray();
-
-
-
