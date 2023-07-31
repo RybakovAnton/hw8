@@ -1,0 +1,15 @@
+/Users/admin/Desktop/DZ/Seminar8/z62/bin/Debug/net6.0/z62
+/Users/admin/Desktop/DZ/Seminar8/z62/bin/Debug/net6.0/z62.deps.json
+/Users/admin/Desktop/DZ/Seminar8/z62/bin/Debug/net6.0/z62.runtimeconfig.json
+/Users/admin/Desktop/DZ/Seminar8/z62/bin/Debug/net6.0/z62.dll
+/Users/admin/Desktop/DZ/Seminar8/z62/bin/Debug/net6.0/z62.pdb
+/Users/admin/Desktop/DZ/Seminar8/z62/obj/Debug/net6.0/z62.csproj.AssemblyReference.cache
+/Users/admin/Desktop/DZ/Seminar8/z62/obj/Debug/net6.0/z62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/DZ/Seminar8/z62/obj/Debug/net6.0/z62.AssemblyInfoInputs.cache
+/Users/admin/Desktop/DZ/Seminar8/z62/obj/Debug/net6.0/z62.AssemblyInfo.cs
+/Users/admin/Desktop/DZ/Seminar8/z62/obj/Debug/net6.0/z62.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/DZ/Seminar8/z62/obj/Debug/net6.0/z62.dll
+/Users/admin/Desktop/DZ/Seminar8/z62/obj/Debug/net6.0/refint/z62.dll
+/Users/admin/Desktop/DZ/Seminar8/z62/obj/Debug/net6.0/z62.pdb
+/Users/admin/Desktop/DZ/Seminar8/z62/obj/Debug/net6.0/z62.genruntimeconfig.cache
+/Users/admin/Desktop/DZ/Seminar8/z62/obj/Debug/net6.0/ref/z62.dll
